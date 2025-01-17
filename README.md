@@ -1,3 +1,2 @@
-# Java-project
-Electricity billing system-java
-Using Java Awt Swing
+# Electricity billing system
+This application is built Using Java Awt Swing .MySQL has been used for database management
